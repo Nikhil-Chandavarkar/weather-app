@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const API_KEY = 'c282c1d09d4f01dd4b6cc51c3fed1fd2';
+const API_KEY = ' YOUR :::                   API-KEY';
 const BASE_URL = 'https://api.openweathermap.org';
 
 export async function POST(request: NextRequest) {
